@@ -1,2 +1,2 @@
 # traffic-light
-I am learning GIT
+I am learning CSS
